@@ -1,0 +1,17 @@
+{
+    "name": "shm/notita",
+    "description": "Aplicación de notas",
+    "license": "shm",
+    "autoload": {
+        "psr-4": {
+            "Shm\\Notita\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesús S.P.",
+            "email": "shamandul@gmail.com"
+        }
+    ],
+    "require": {}
+}
